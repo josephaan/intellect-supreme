@@ -1,2 +1,3 @@
-# intellect-supreme
-Artificial Intelligence research
+# Machine Learning Stuff
+
+This is just for me to experiment with machine learning.
